@@ -1,3 +1,9 @@
+# Udacity myReads project 
+
+## Run the app 
+Before tarting the app, please, run `npm install` and then use the `npm start` to launch the app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
