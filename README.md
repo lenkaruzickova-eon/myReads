@@ -4,7 +4,7 @@ MyReads project allows user to create his own library with different shelfs (wan
 
 ## Run the app
 
-Before starting the app, please, run `npm install` and then use the `npm start` to launch the app. The app will be open on [http://localhost:3000](http://localhost:3000) in your browser.
+Before starting the app, please, run `npm install` and then use the `npm start` to launch the app. The app will be opened on [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Structure of the project
 
