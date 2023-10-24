@@ -32,7 +32,7 @@ function ShelfChanger({ onBookShelfChange, shelf }) {
     <div className="book-shelf-changer">
       <select
         onChange={(e) => onBookShelfChange?.(e.target.value)}
-        value={shelf ?? ""}
+        value={shelf ?? "none"}
       >
         <option value="" disabled>
           Move to...
